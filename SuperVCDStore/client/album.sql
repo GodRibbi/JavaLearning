@@ -1,0 +1,16 @@
+INSERT INTO `album` VALUES (1, 1, '刀郎', '披着狼皮的羊', '0', 789.00);
+INSERT INTO `album` VALUES (2, 1, '费玉清', '天之大', '0', 456.00);
+INSERT INTO `album` VALUES (3, 1, '屠洪刚', '精忠报国', '0', 123.00);
+INSERT INTO `album` VALUES (4, 1, '满文军', '望乡', '0', 321.00);
+INSERT INTO `album` VALUES (5, 2, '林俊杰', '伟大的渺小', '0', 654.00);
+INSERT INTO `album` VALUES (6, 2, '孙燕姿', '逆光', '0', 987.00);
+INSERT INTO `album` VALUES (7, 2, '蔡健雅', 'Goodbye&Hello', '0', 159.00);
+INSERT INTO `album` VALUES (8, 2, '阿杜', '天黑', '0', 951.00);
+INSERT INTO `album` VALUES (9, 3, 'Westlife', 'Coast To Coast', '0', 753.00);
+INSERT INTO `album` VALUES (10, 3, 'Ed sheeran', '÷', '0', 357.00);
+INSERT INTO `album` VALUES (11, 3, 'Taylor Swift', 'Fearless', '0', 741.00);
+INSERT INTO `album` VALUES (12, 3, 'Justin Bieber', 'Purpose', '0', 147.00);
+INSERT INTO `album` VALUES (13, 4, '张学友', '给我亲爱的', '0', 258.00);
+INSERT INTO `album` VALUES (14, 4, '林子祥', '十三子祥', '0', 852.00);
+INSERT INTO `album` VALUES (15, 4, '迪克牛仔', '我这个你不爱的人', '0', 369.00);
+INSERT INTO `album` VALUES (16, 4, '顺子', '顺子', '0', 963.00);
